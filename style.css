@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(205, 220, 224);
+}
+
+h1 {
+  color: #c26356;
+  font-size: 30px;
+  font-family: Menlo, Monaco, fixed-width;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+ul ol {
+  font-style: italic;
+}
+
+img {
+  vertical-align: middle;
+}
